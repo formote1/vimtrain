@@ -1,0 +1,12 @@
+# Rust compilation output
+/target/
+
+# IDEs and Editors (Optional, but recommended)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
